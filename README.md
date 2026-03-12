@@ -89,5 +89,8 @@ This project demonstrates how data analytics can be used to monitor financial ac
 
 By combining Python for data preparation and Tableau for interactive visualization, the project provides a structured workflow for financial data analysis and decision support.
 
+You can access this project from the below drive link
+https://drive.google.com/drive/folders/1RMFBQSXWU2WYyVLMv_2S9Ao63-6HuzJM?usp=sharing
+
 Author
 Simran Ghag
